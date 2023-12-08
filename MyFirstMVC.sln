@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstMVC", "MyFirstMVC\MyFirstMVC.csproj", "{20673ED4-3E57-4E07-9D2C-E566D9133649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{B88C4CCE-5DD2-4F35-A833-D69FA92D5C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{7949D0E1-EE63-4228-96BC-229FAF59199D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20673ED4-3E57-4E07-9D2C-E566D9133649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20673ED4-3E57-4E07-9D2C-E566D9133649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20673ED4-3E57-4E07-9D2C-E566D9133649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20673ED4-3E57-4E07-9D2C-E566D9133649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88C4CCE-5DD2-4F35-A833-D69FA92D5C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88C4CCE-5DD2-4F35-A833-D69FA92D5C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88C4CCE-5DD2-4F35-A833-D69FA92D5C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88C4CCE-5DD2-4F35-A833-D69FA92D5C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7949D0E1-EE63-4228-96BC-229FAF59199D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7949D0E1-EE63-4228-96BC-229FAF59199D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7949D0E1-EE63-4228-96BC-229FAF59199D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7949D0E1-EE63-4228-96BC-229FAF59199D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D6A1C1-84B2-4784-912E-AE443DE8D4CC}
+	EndGlobalSection
+EndGlobal
